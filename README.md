@@ -1,8 +1,6 @@
 # PlotTwist
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/plot_twist`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This Gem is a bit of code written by Michael Adkins to provide Movie and Arm Chair warriors with all the relevent facts about the movie and/or the series they are into. Want to know the actor that played Merry or Pippin(The Lord of the Rings). What about Bill Fagerbakke. Most people under 20 know him as the Voice of 'Patrick Star', but if you never watched him play 'Dauber Dybinski' in the T.V. series 'Coach' then you are missing where his voice acting roots came from. Search your favorite shows and movies and get the upper hand in the next trivia challenge.
 
 ## Installation
 
